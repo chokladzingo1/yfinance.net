@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72F7E5CF-FEBE-48F7-8C80-787218749D8C}|yfinance.test\\yfinance.test.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F7E5CF-FEBE-48F7-8C80-787218749D8C}|yfinance.test\\yfinance.test.csproj|solutionrelative:yfinance.test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.net\\scrapers\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|solutionrelative:yfinance.net\\scrapers\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.net\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|solutionrelative:yfinance.net\\const.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.net\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|solutionrelative:yfinance.net\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.net\\yfinance.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|solutionrelative:yfinance.net\\yfinance.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.net\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|solutionrelative:yfinance.net\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.net\\scrapers\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|solutionrelative:yfinance.net\\scrapers\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.net\\scrapers\\fundamentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|solutionrelative:yfinance.net\\scrapers\\fundamentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.net\\screener\\screener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|solutionrelative:yfinance.net\\screener\\screener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.net\\screener\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|solutionrelative:yfinance.net\\screener\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.net\\const_old.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|solutionrelative:yfinance.net\\const_old.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F7E5CF-FEBE-48F7-8C80-787218749D8C}|yfinance.test\\yfinance.test.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.test\\yfinance.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72F7E5CF-FEBE-48F7-8C80-787218749D8C}|yfinance.test\\yfinance.test.csproj|solutionrelative:yfinance.test\\yfinance.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.net\\scrapers\\funds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|solutionrelative:yfinance.net\\scrapers\\funds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.net\\scrapers\\analysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|solutionrelative:yfinance.net\\scrapers\\analysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.net\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|solutionrelative:yfinance.net\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.net\\scrapers\\holders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|solutionrelative:yfinance.net\\scrapers\\holders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.net\\data_old.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|solutionrelative:yfinance.net\\data_old.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|c:\\users\\berndt\\documents\\vscode\\yfinance.net\\yfinance.net\\yfinance.net.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2A01D229-63CC-4503-B5A8-07C7360F98F1}|YFinance.NET\\YFinance.NET.csproj|solutionrelative:yfinance.net\\yfinance.net.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\yfinance.test\\Test1.cs",
+              "RelativeDocumentMoniker": "yfinance.test\\Test1.cs",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\yfinance.test\\Test1.cs",
+              "RelativeToolTip": "yfinance.test\\Test1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:46:41.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "history.cs",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\Scrapers\\history.cs",
+              "RelativeDocumentMoniker": "YFinance.NET\\Scrapers\\history.cs",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\Scrapers\\history.cs",
+              "RelativeToolTip": "YFinance.NET\\Scrapers\\history.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAswIQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:04:40.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "data.cs",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\data.cs",
+              "RelativeDocumentMoniker": "YFinance.NET\\data.cs",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\data.cs",
+              "RelativeToolTip": "YFinance.NET\\data.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:10:13.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quote.cs",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\Scrapers\\quote.cs",
+              "RelativeDocumentMoniker": "YFinance.NET\\Scrapers\\quote.cs",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\Scrapers\\quote.cs",
+              "RelativeToolTip": "YFinance.NET\\Scrapers\\quote.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKIAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:03:58.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "utils.cs",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\utils.cs",
+              "RelativeDocumentMoniker": "YFinance.NET\\utils.cs",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\utils.cs",
+              "RelativeToolTip": "YFinance.NET\\utils.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAA8wGoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:01:02.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "const.cs",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\const.cs",
+              "RelativeDocumentMoniker": "YFinance.NET\\const.cs",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\const.cs",
+              "RelativeToolTip": "YFinance.NET\\const.cs",
+              "ViewState": "AgIAACkBAAAAAAAAAAAawDIBAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T20:20:25.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fundamentals.cs",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\Scrapers\\fundamentals.cs",
+              "RelativeDocumentMoniker": "YFinance.NET\\Scrapers\\fundamentals.cs",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\Scrapers\\fundamentals.cs",
+              "RelativeToolTip": "YFinance.NET\\Scrapers\\fundamentals.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAswLUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:21:19.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YFinance.NET.csproj",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\YFinance.NET.csproj",
+              "RelativeDocumentMoniker": "YFinance.NET\\YFinance.NET.csproj",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\YFinance.NET.csproj",
+              "RelativeToolTip": "YFinance.NET\\YFinance.NET.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-13T14:01:27.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "screener.cs",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\Screener\\screener.cs",
+              "RelativeDocumentMoniker": "YFinance.NET\\Screener\\screener.cs",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\Screener\\screener.cs",
+              "RelativeToolTip": "YFinance.NET\\Screener\\screener.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAWwDIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:39:24.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "query.cs",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\Screener\\query.cs",
+              "RelativeDocumentMoniker": "YFinance.NET\\Screener\\query.cs",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\Screener\\query.cs",
+              "RelativeToolTip": "YFinance.NET\\Screener\\query.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAYwMgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:39:47.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "const_old.cs",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\const_old.cs",
+              "RelativeDocumentMoniker": "YFinance.NET\\const_old.cs",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\const_old.cs",
+              "RelativeToolTip": "YFinance.NET\\const_old.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:21:49.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "yfinance.test.csproj",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\yfinance.test\\yfinance.test.csproj",
+              "RelativeDocumentMoniker": "yfinance.test\\yfinance.test.csproj",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\yfinance.test\\yfinance.test.csproj",
+              "RelativeToolTip": "yfinance.test\\yfinance.test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T15:48:26.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "funds.cs",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\Scrapers\\funds.cs",
+              "RelativeDocumentMoniker": "YFinance.NET\\Scrapers\\funds.cs",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\Scrapers\\funds.cs",
+              "RelativeToolTip": "YFinance.NET\\Scrapers\\funds.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswCAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:54:18.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "analysis.cs",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\Scrapers\\analysis.cs",
+              "RelativeDocumentMoniker": "YFinance.NET\\Scrapers\\analysis.cs",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\Scrapers\\analysis.cs",
+              "RelativeToolTip": "YFinance.NET\\Scrapers\\analysis.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAD4vxkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:51:21.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "base.cs",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\base.cs",
+              "RelativeDocumentMoniker": "YFinance.NET\\base.cs",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\base.cs",
+              "RelativeToolTip": "YFinance.NET\\base.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAtwBoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:00:02.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "data_old.cs",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\data_old.cs",
+              "RelativeDocumentMoniker": "YFinance.NET\\data_old.cs",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\data_old.cs",
+              "RelativeToolTip": "YFinance.NET\\data_old.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIAwwBkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:17:56.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "holders.cs",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\Scrapers\\holders.cs",
+              "RelativeDocumentMoniker": "YFinance.NET\\Scrapers\\holders.cs",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\Scrapers\\holders.cs",
+              "RelativeToolTip": "YFinance.NET\\Scrapers\\holders.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIAwwBoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:04:16.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "YFinance.NET",
+              "DocumentMoniker": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\YFinance.NET.csproj",
+              "RelativeDocumentMoniker": "YFinance.NET\\YFinance.NET.csproj",
+              "ToolTip": "C:\\Users\\Berndt\\Documents\\VSCode\\yfinance.net\\YFinance.NET\\YFinance.NET.csproj",
+              "RelativeToolTip": "YFinance.NET\\YFinance.NET.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-13T14:01:50.095Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
